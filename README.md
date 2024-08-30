@@ -20,7 +20,7 @@ Para lograr el objetivo se planean las siguientes tareas:
 ## Tecnologías
 ***
 Los recursos utilizados en este proyecto son:
-* Librerpias de Python 
+* Librerías de Python 
 	* Pandas 
 	* Numpy
 	* Matplotlib
